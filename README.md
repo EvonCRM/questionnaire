@@ -195,7 +195,7 @@ _____________________________________________
 
 ### SECTION 8: REQUIRED DOCUMENTATION
 
-**26. Government issued photo id**
+**26. Government issued photo id** (Optional)
 *Quick identity verification - any ID with your name, date of birth, and photo works. Your ID is automatically deleted after verification and never shared with anyone*
 - [ ] Document uploaded and verified
 
