@@ -9,7 +9,7 @@
 - [ ] Identity verification completed
 
 **2. The Basics**
-- [ ] Personal information registered
+- [ ] Personal information registered, full name, email, phone.
 
 **3. What is your sex assigned at birth?**
 - [ ] Male
